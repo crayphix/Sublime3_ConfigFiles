@@ -1,0 +1,58 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"All Autocomplete",
+		"AutoSpell",
+		"C++ Completions",
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"C++11",
+		"C++NamespaceTool",
+		"CSS Extended Completions",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"Git",
+		"Google Spell Check",
+		"GoSublime",
+		"HTML5",
+		"JavaIME",
+		"JavaScript & NodeJS Snippets",
+		"Javatar",
+		"JUnit Completions",
+		"Material Theme",
+		"Maven",
+		"MySQL Snippets",
+		"Package Control",
+		"PgSQL",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"Six",
+		"SQF Language",
+		"SqlBeautifier",
+		"SQLExec",
+		"SQLPlus",
+		"SQLTools",
+		"Sublime Tutor",
+		"sublime-github",
+		"SublimeHighlight",
+		"SublimeLinter",
+		"SublimeLinter-contrib-java",
+		"SublimeLinter-javac",
+		"SublimePeek-R-help",
+		"Terminal",
+		"uroboroSQL Formatter"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
+	]
+}
